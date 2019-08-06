@@ -1,0 +1,15 @@
+{
+  "name": "moden_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "tao",
+  "license": "ISC",
+  "dependencies": {
+    "dart-sass": "^1.22.9",
+    "node-sass": "^4.12.0"
+  }
+}
