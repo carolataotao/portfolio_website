@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "dart-sass": "^1.22.9",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {},
   "description": ""
